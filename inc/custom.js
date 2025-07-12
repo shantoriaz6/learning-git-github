@@ -1,2 +1,3 @@
 //im from master
-alert('hello world');
+
+console.log("hello world");
